@@ -1,0 +1,62 @@
+{title: In The Air}
+{artist: L.A.B.}
+{key: Am}
+
+{comment: Chord Voicings}
+{define: Dm7 base-lookup fret 10 fingers x 3 1 1 1 x}
+{define: Am7 base-lookup fret 12 fingers x 1 3 1 2 x}
+{define: G base-lookup fret 10 fingers x 1 3 3 3 x}
+{define: F base-lookup fret 8 fingers x 1 3 3 3 x}
+{define: Em base-lookup fret 7 fingers x 1 3 3 2 x}
+
+{comment: Intro}
+[Dm7]        [Am7] [G] (x4)
+
+{start_of_verse: Verse 1}
+Ooh, I feel it [Dm7]everywhere
+It's [Am7]cold breathing in the [G]dark
+Take me on, I'll [Dm7]lead you there
+And [Am7]call me, will you be [G]far?
+I don't wanna [Dm7]let you down
+[Am7]Slowly, but not too [G]long
+Ooh, I feel it [Dm7]in the air
+You [Am7]know me, I'll keep you [G]on
+{end_of_verse}
+
+{comment: Interlude}
+[Dm7]        [Am7] [G] (x4)
+
+{start_of_verse: Verse 2}
+It's evident you [Dm7]want me now (Baby)
+My [Am7]hearts beating on the [G]floor
+I see it in the [Dm7]turn around
+You [Am7]move me but I want [G]more
+The memory is [Dm7]in the air (The memory is in the air)
+The [Am7]music is all we [G]need
+Ooh, I feel it, [Dm7]can't you see? (Can't you see? Ooh)
+You [Am7]know me, I'll keep you [G]there
+{end_of_verse}
+
+{comment: Interlude}
+[Dm7]        [Am7] [G] (x2)
+
+{start_of_bridge: Bridge}
+[F]Ooh, I get that feeling, [G]can I take you on a [Dm7]ride? (Take you on a ride)
+[F]Knowing what I know, I can [Em]see it baby in your [Dm7]eyes?
+'Cause it's [F]cool when we're full 'til the [G]morning from the early [Dm7]night, hey
+[F]I can take a chance, [Em]loving your romance to[Dm7]night
+{end_of_bridge}
+
+{start_of_verse: Verse 3}
+Girl, you know you [Dm7]turn me on (Know you turn me on)
+I [Am7]like it, oh, can't you [G]see?
+The way your moving [Dm7]on the floor (Moving on the floor)
+The [Am7]fire, the way you [G]breathe
+Can I take you [Dm7]home tonight? (You can take me home tonight)
+We're [Am7]flying beneath the [G]sheets
+Holding on to [Dm7]make me strong (Ooh)
+To[Am7]night is the night I [G]need
+{end_of_verse}
+
+{comment: Outro}
+[Dm7]        [Am7] [G] (x4)
